@@ -7,10 +7,12 @@ This project is meant to be made entirely by contributions from the community.
 
 1. Fork the repository
 
+First, fork this repo and go to your version
+
 2. Clone the repository
 
 ```bash
-    git clone https://github.com/StefanTheWebDev/the-greatest-website-ever.git
+    git clone https://github.com/your-username/the-greatest-website-ever.git
 ```
 
 3. Install dependencies
@@ -30,7 +32,7 @@ This project is meant to be made entirely by contributions from the community.
 6. Add your file/s or the entire project
 
 ```bash
-    git add filename      or git add .
+    git add filename  or git add .
 ```
 
 7. Commit your changes
